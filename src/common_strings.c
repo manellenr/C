@@ -1,8 +1,3 @@
-/*
- * Created by Nicolas Fez for Bistromathique.
- * Started on 2019-05-15.
- */
-
 #include <stdlib.h>
 #include "bistromathique.h"
 
