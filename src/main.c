@@ -1,13 +1,3 @@
-/*
-** main.c for bistromathique 
-** 
-** Made by Charlie Root
-** Login   <rn@epita.fr>
-** 
-** Started on  Tue Oct 23 11:45:05 2001 Charlie Root
-** Last update Mon Sep 17 12:00:27 2012 Mickael Wiart
-*/
-
 #include <unistd.h>
 #include <stdlib.h>
 #include "bistromathique.h"
