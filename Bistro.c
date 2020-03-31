@@ -2,10 +2,8 @@
 ** Made by Nouar Manelle
 ** Login <manellenouar@yahoo.fr>
 ** 
-** Started on Thu Jan 24 20:21:33 2020 Thibaut Cornolti
+** Started on Thu Jan 24 20:21:33 2020 
 */
-
-#include "../include/my_struct.h"
 
 int	priority(t_list *list, char c)
 {
