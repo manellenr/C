@@ -1,3 +1,4 @@
+
 # Bistromathique
 
 This is the first big assignment. Its purpose is to calculate numbers with infinite digits.
