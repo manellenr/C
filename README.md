@@ -1,6 +1,6 @@
 # Bistromathique
 
-This is the first big assignment at Epitech. Its purpose is to calculate numbers with infinite digits.
+This is the first big assignment. Its purpose is to calculate numbers with infinite digits.
 This version of Bistromathique contains the following operations:
 
 * Infinite addition
