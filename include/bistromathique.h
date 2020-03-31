@@ -1,13 +1,3 @@
-/*
-** bistromathique.h for bistromathique in .
-** 
-** Made by Charlie Root
-** Login   <rn@epita.fr>
-** 
-** Started on  Tue Oct 23 11:48:35 2001 Charlie Root
-** Last update Sun Nov  4 13:43:17 2001 Charlie Root
-*/
-
 #ifndef _BISTROMATHIQUE_H_
 # define _BISTROMATHIQUE_H_
 
